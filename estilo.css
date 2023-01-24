@@ -1,0 +1,25 @@
+.H1{
+
+    color: blue;
+}
+
+.Parrafo{
+    font-size: 20px;
+    
+ }
+
+.IMAGEN1{
+    border: 5PX solid red;
+}
+
+.Link{
+    text-decoration: none;
+}
+
+.Destacado{
+    background-color: yellow;
+}
+
+#titulo{
+    font-weight: bold;
+}
